@@ -1,6 +1,6 @@
                                                            📋  Ｓｏｂｒｅ  📋
 
-🚀 Sou um Desenvolvedor Frontend, ambicioso, hiperfocado e buscando crescer na área. Com uma base sólida em HTML e CSS, estou expandindo meu conhecimento em JavaScript e React para me tornar um desenvolvedor front-end competente. Sou um estudante apaixonado por tecnologia e programação, atualmente cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI.  Estou sempre buscando novos desafios e oportunidades para crescer na área de TI.
+🚀 Sou um Desenvolvedor Front End, ambicioso, hiperfocado e buscando crescer na área. Com uma base sólida em HTML e CSS, estou expandindo meu conhecimento em JavaScript e React para me tornar um desenvolvedor front-end competente. Sou um estudante apaixonado por tecnologia e programação, atualmente cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI.  Estou sempre buscando novos desafios e oportunidades para crescer na área de TI.
 
 🔮 Meu objetivo num futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮
 
