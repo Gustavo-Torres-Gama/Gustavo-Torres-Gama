@@ -1,16 +1,21 @@
-## Hi there 👋
+                                                           📋  Ｓｏｂｒｅ  📋
 
-<!--
-**Gustavo-Torres-Gama/Gustavo-Torres-Gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sou um Desenvolvedor Frontend, ambicioso, hiperfocado e buscando crescer na área. Com uma base sólida em HTML e CSS, estou expandindo meu conhecimento em JavaScript e React para me tornar um desenvolvedor front-end competente. Sou um estudante apaixonado por tecnologia e programação, atualmente cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI.  Estou sempre buscando novos desafios e oportunidades para crescer na área de TI.
 
-Here are some ideas to get you started:
+🔮 Meu objetivo num futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                         👨🏻‍💻  Ｐｒｏｊｅｔｏｓ  👨🏻‍💻
+                                                         ESTA EM DESENVOLVIMENTO 
+
+                                                       🛠️  Ｔｅｃｎｏｌｏｇｉａ s  🛠️
+                                                         ESTA EM DESENVOLVIMENTO 
+
+                                                          💬  Ｃｏｎｔａｔｏ  💬
+                                                         ESTA EM DESENVOLVIMENTO 
+
+                                                         📈  Ａｔｉｖｉｄａｄｅ  📈
+
+
+[![Gustavo Status](https://github-readme-stats.vercel.app/api?username=Gustavo-Torres-Gama)](https://github.com/anuraghazra/github=readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Torres-Gama)](https://github.com/anuraghazra/github-readme-readme-stats)                                                                 
