@@ -32,16 +32,20 @@
   <h2 align="center">Projetos</h2>
   
   <div class="project">
-    <h3>[Nome do Projeto 1]</h3>
-    <p>Descrição breve: [Descreva o projeto]</p>
-    <p>Tecnologias: React, Redux, Material-UI</p>
-    <a href="[Link para o repositório]">Ver projeto</a>
+    <h3>[Portifólio]</h3>
+    <p>Descrição breve: [Desenvolvendo]</p>
+    <p>Tecnologias: HTML | CSS | React | Redux</p>
+    <a href="[]">Confira esse e outros projetos no meu repositório</a>
   </div>
   <h2 align="center">Contato</h2>
-  <p align="center">
-    <a href="https://es.wiktionary.org/wiki/removido">GitHub</a> | 
-    <a href="https://es.wiktionary.org/wiki/removido">LinkedIn</a>
-  </p>
+  <br> </br>
+  <div align="center">Vamos manter contato!</div>
+
+  <div align="center">
+        
+ [![Vamos-manter-contato](https://img.shields.io/badge/linkedin-0e76a8?style=social&logo=linkedin&labelColor=white)](https://www.linkedin.com/in/gustavo-torres-gama)
+
+  </div>
 
   <h2 align="center">Atividade</h2>
   <div align="center">
