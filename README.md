@@ -31,11 +31,11 @@
 
   <h2 align="center">Projetos</h2>
   
-  <div class="project">
+  <div align="center">
     <h3>[Portifólio]</h3>
-    <p>Descrição breve: [Desenvolvendo]</p>
+    <p>Breve descrição: [Desenvolvendo]</p>
     <p>Tecnologias: HTML | CSS | React | Redux</p>
-    <a href="[]">Confira esse e outros projetos no meu repositório</a>
+    <a href="https://github.com/Gustavo-Torres-Gama?tab=repositories">Confira esse e outros projetos no meu repositório</a>
   </div>
   <h2 align="center">Contato</h2>
   <br> </br>
